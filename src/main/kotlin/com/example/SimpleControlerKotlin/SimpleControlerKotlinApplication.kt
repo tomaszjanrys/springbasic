@@ -9,4 +9,5 @@ class SimpleControlerKotlinApplication
 
 fun main(args: Array<String>) {
 	runApplication<SimpleControlerKotlinApplication>(*args)
+
 }
